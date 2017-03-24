@@ -1,20 +1,25 @@
-a nothing ع
+a nothing ع ا اع
 b ب
+ch چ
 d د
 e nothing ع
 f ف
 g گ
+gh ق غ
 h ه ح
 i ی یع
 j ج
 k ک
+kh خ
 l ل
 m م
 n ن
-o nothing ع وع
+o nothing ع وع و
 p پ
+q ق غ
 r ر
 s س ث ص
+sh ش
 t ت ط
 u و وع
 v و
