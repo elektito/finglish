@@ -98,7 +98,12 @@ sh, etc."""
     else:
         return [[word[0]] + i for i in variations(word[1:])]
 
-def f2p_word(word):
+def f2p_word(word, max_word_size=10):
+    if word == '':
+        return []
+    elif len(word) > max_word_size:
+        return [(word, 1.0)]
+
     word = word.lower()
 
     results = []
@@ -109,9 +114,12 @@ def f2p_word(word):
     # of possibilities.
     return results[:3]
 
-def f2p(phrase):
+def f2p(phrase, max_word_size=10):
+    if phrase == '':
+        return ''
+
     # split the phrase into words and then convert each word.
-    results = [f2p_word(w) for w in phrase.strip().split()]
+    results = [f2p_word(w, max_word_size) for w in phrase.strip().split()]
 
     # create the Cartesian product of the results
     results = list(itertools.product(*results))
