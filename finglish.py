@@ -66,7 +66,7 @@ sh, etc."""
         return [['u']]
     elif word == 'kha':
         return [['kha'], ['kh', 'a']]
-    elif word in ['kh', 'gh', 'ch', 'sh']:
+    elif word in ['kh', 'gh', 'ch', 'sh', 'zh']:
         return [[word]]
     elif len(word) == 2 and word[0] == word[1]:
         return [[word[0]]]
@@ -78,7 +78,7 @@ sh, etc."""
             [['kha'] + i for i in variations(word[3:])] + \
             [['kh', 'a'] + i for i in variations(word[3:])] + \
             [['k', 'h', 'a'] + i for i in variations(word[3:])]
-    elif word[:2] in ['kh', 'gh', 'ch', 'sh']:
+    elif word[:2] in ['kh', 'gh', 'ch', 'sh', 'zh']:
         return \
             [[word[:2]] + i for i in variations(word[2:])] + \
             [[word[0]] + i for i in variations(word[1:])]
