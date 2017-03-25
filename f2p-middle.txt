@@ -1,13 +1,13 @@
-a nothing ع ا اع
+a nothing ع ا اع أ ؤ ئا ئ
 b ب
 ch چ
 d د
-e nothing ع
+e nothing ع أ ئ
 f ف
 g گ
 gh ق غ
 h ه ح
-i ی یع
+i ی یع ئی عی
 j ج ژ
 k ک
 kh خ
@@ -15,14 +15,14 @@ kha خا خوا خ
 l ل
 m م
 n ن
-o nothing ع وع و
+o nothing ع وع و ئ ؤ عو
 p پ
 q ق غ
 r ر
 s س ث ص
 sh ش
 t ت ط
-u و وع
+u و وع ئو عو
 v و
 w و
 y ی
