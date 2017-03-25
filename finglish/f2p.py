@@ -1,8 +1,11 @@
 #!/usr/bin/env python3
 
 import os
+import re
 import itertools
 from functools import reduce
+
+sep_regex = re.compile(r'[ \-_~!@#%$^&*\(\)\[\]\{\}/\:;"|,./?`]')
 
 def get_portable_filename(filename):
     path, _ = os.path.split(__file__)
@@ -115,11 +118,15 @@ def f2p_word(word, max_word_size=10):
     return results[:3]
 
 def f2p(phrase, max_word_size=10):
-    if phrase == '':
-        return ''
+    # split the phrase into words
+    results = [w for w in sep_regex.split(phrase) if w]
 
-    # split the phrase into words and then convert each word.
-    results = [f2p_word(w, max_word_size) for w in phrase.strip().split()]
+    # return an empty list if no words
+    if results == []:
+        return []
+
+    # convert each word separately
+    results = [f2p_word(w, max_word_size) for w in results]
 
     # create the Cartesian product of the results
     results = list(itertools.product(*results))
