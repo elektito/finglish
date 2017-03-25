@@ -1,9 +1,16 @@
 #!/usr/bin/env python3
 
+import os
 import itertools
 from functools import reduce
 
+def get_portable_filename(filename):
+    path, _ = os.path.split(__file__)
+    filename = os.path.join(path, filename)
+    return filename
+
 def load_conversion_file(filename):
+    filename = get_portable_filename(filename)
     with open(filename) as f:
         l = list(f)
         l = [i for i in l if i.strip()]
@@ -16,7 +23,7 @@ middle = load_conversion_file('f2p-middle.txt')
 ending = load_conversion_file('f2p-ending.txt')
 
 print('Loading persian word list...')
-with open('persian-word-freq.txt') as f:
+with open(get_portable_filename('persian-word-freq.txt')) as f:
     word_freq = list(f)
 word_freq = [i.strip() for i in word_freq if i.strip()]
 word_freq = [i.split() for i in word_freq if not i.startswith('#')]
