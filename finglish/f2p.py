@@ -41,7 +41,7 @@ def f2p_word_internal(word):
             converter = middle
         conversions = converter.get(letter)
         if conversions == None:
-            conversions = letter
+            return [(''.join(word), 1.0)]
         else:
             conversions = ['' if i == 'nothing' else i for i in conversions]
         persian.append(conversions)
