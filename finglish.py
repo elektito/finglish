@@ -92,6 +92,8 @@ sh, etc."""
         return [[word[0]] + i for i in variations(word[1:])]
 
 def f2p_word(word):
+    word = word.lower()
+
     results = []
     for w in variations(word):
         results.extend(f2p_word_internal(w))
