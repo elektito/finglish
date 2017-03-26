@@ -102,6 +102,17 @@ sh, etc."""
         return [[word[0]] + i for i in variations(word[1:])]
 
 def f2p_word(word, max_word_size=10, cutoff=3):
+    """Convert a single word from Finglish to Persian.
+
+    max_word_size: Maximum size of the words to consider. Words larger
+    than this will be kept unchanged.
+
+    cutoff: The cut-off point. For each word, there could be many
+    possibilities. By default 3 of these possibilities are considered
+    for each word. This number can be changed by this argument.
+
+    """
+
     if word == '':
         return []
     elif len(word) > max_word_size:
@@ -118,6 +129,18 @@ def f2p_word(word, max_word_size=10, cutoff=3):
     return results[:cutoff]
 
 def f2p(phrase, max_word_size=10, cutoff=3):
+    """Convert a phrase from Finglish to Persian.
+
+    phrase: The phrase to convert.
+
+    max_word_size: Maximum size of the words to consider. Words larger
+    than this will be kept unchanged.
+
+    cutoff: The cut-off point. For each word, there could be many
+    possibilities. By default 3 of these possibilities are considered
+    for each word. This number can be changed by this argument.
+
+    """
 
     # split the phrase into words
     results = [w for w in sep_regex.split(phrase) if w]
