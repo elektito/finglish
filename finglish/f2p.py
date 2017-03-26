@@ -101,7 +101,7 @@ sh, etc."""
     else:
         return [[word[0]] + i for i in variations(word[1:])]
 
-def f2p_word(word, max_word_size=10):
+def f2p_word(word, max_word_size=10, cutoff=3):
     if word == '':
         return []
     elif len(word) > max_word_size:
@@ -115,9 +115,10 @@ def f2p_word(word, max_word_size=10):
 
     # return the top three results in order to cut down on the number
     # of possibilities.
-    return results[:3]
+    return results[:cutoff]
 
-def f2p(phrase, max_word_size=10):
+def f2p(phrase, max_word_size=10, cutoff=3):
+
     # split the phrase into words
     results = [w for w in sep_regex.split(phrase) if w]
 
@@ -126,7 +127,7 @@ def f2p(phrase, max_word_size=10):
         return []
 
     # convert each word separately
-    results = [f2p_word(w, max_word_size) for w in results]
+    results = [f2p_word(w, max_word_size, cutoff) for w in results]
 
     # create the Cartesian product of the results
     results = list(itertools.product(*results))
