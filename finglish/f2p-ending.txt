@@ -4,6 +4,7 @@ b ب
 ch چ
 d د
 e ع ه nothing
+ei ئی یی عی
 f ف
 g گ
 gh ق غ
