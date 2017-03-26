@@ -3,3 +3,4 @@ include finglish/f2p-middle.txt
 include finglish/f2p-ending.txt
 include finglish/persian-word-freq.txt
 include LICENSE.txt
+include requirements.txt
