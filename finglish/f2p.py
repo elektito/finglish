@@ -110,7 +110,7 @@ sh, etc."""
     else:
         return [[word[0]] + i for i in variations(word[1:])]
 
-def f2p_word(word, max_word_size=10, cutoff=3):
+def f2p_word(word, max_word_size=15, cutoff=3):
     """Convert a single word from Finglish to Persian.
 
     max_word_size: Maximum size of the words to consider. Words larger
@@ -146,7 +146,7 @@ def f2p_word(word, max_word_size=10, cutoff=3):
     # of possibilities.
     return results[:cutoff]
 
-def f2p(phrase, max_word_size=10, cutoff=3):
+def f2p(phrase, max_word_size=15, cutoff=3):
     """Convert a phrase from Finglish to Persian.
 
     phrase: The phrase to convert.
