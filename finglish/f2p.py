@@ -32,6 +32,11 @@ word_freq = [i.strip() for i in word_freq if i.strip()]
 word_freq = [i.split() for i in word_freq if not i.startswith('#')]
 word_freq = {i[0]: int(i[1]) for i in word_freq}
 
+print('Loading dictionary...')
+with open(get_portable_filename('f2p-dict.txt')) as f:
+    dictionary = [i.strip().split(' ', 1) for i in f if i.strip()]
+    dictionary = {k.strip(): v.strip() for k, v in dictionary}
+
 def f2p_word_internal(word, original_word):
     # this function receives the word as separate letters
     persian = []
@@ -116,6 +121,10 @@ def f2p_word(word, max_word_size=10, cutoff=3):
     for each word. This number can be changed by this argument.
 
     """
+
+    c = dictionary.get(word)
+    if c:
+        return [(c, 1.0)]
 
     original_word = word
 
