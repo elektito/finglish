@@ -62,8 +62,6 @@ def f2p_word_internal(word, original_word):
     else:
         alternatives = [(''.join(word), 1.0)]
 
-    alternatives.sort(key=lambda r: r[1], reverse=True)
-
     return alternatives
 
 def variations(word):
@@ -131,6 +129,9 @@ def f2p_word(word, max_word_size=10, cutoff=3):
     results = []
     for w in variations(word):
         results.extend(f2p_word_internal(w, original_word))
+
+    # sort results based on the confidence value
+    results.sort(key=lambda r: r[1], reverse=True)
 
     # return the top three results in order to cut down on the number
     # of possibilities.
