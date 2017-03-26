@@ -72,6 +72,8 @@ sh, etc."""
 
     if len(word) == 1:
         return [[word[0]]]
+    elif word == 'aa':
+        return [['A']]
     elif word == 'ee':
         return [['i']]
     elif word in ['oo', 'ou']:
@@ -83,6 +85,8 @@ sh, etc."""
     elif len(word) == 2 and word[0] == word[1]:
         return [[word[0]]]
 
+    if word[:2] == 'aa':
+        return [['A'] + i for i in variations(word[2:])]
     if word[:2] == 'ee':
         return [['i'] + i for i in variations(word[2:])]
     elif word[:2] in ['oo', 'ou']:

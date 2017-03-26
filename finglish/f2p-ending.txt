@@ -1,4 +1,5 @@
 a ا اع nothing
+A ا
 b ب
 ch چ
 d د
