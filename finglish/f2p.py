@@ -32,7 +32,7 @@ word_freq = [i.strip() for i in word_freq if i.strip()]
 word_freq = [i.split() for i in word_freq if not i.startswith('#')]
 word_freq = {i[0]: int(i[1]) for i in word_freq}
 
-def f2p_word_internal(word):
+def f2p_word_internal(word, original_word):
     # this function receives the word as separate letters
     persian = []
     for i, letter in enumerate(word):
@@ -44,7 +44,7 @@ def f2p_word_internal(word):
             converter = middle
         conversions = converter.get(letter)
         if conversions == None:
-            return [(''.join(word), 1.0)]
+            return [(''.join(original_word), 1.0)]
         else:
             conversions = ['' if i == 'nothing' else i for i in conversions]
         persian.append(conversions)
@@ -113,6 +113,8 @@ def f2p_word(word, max_word_size=10, cutoff=3):
 
     """
 
+    original_word = word
+
     if word == '':
         return []
     elif len(word) > max_word_size:
@@ -122,7 +124,7 @@ def f2p_word(word, max_word_size=10, cutoff=3):
 
     results = []
     for w in variations(word):
-        results.extend(f2p_word_internal(w))
+        results.extend(f2p_word_internal(w, original_word))
 
     # return the top three results in order to cut down on the number
     # of possibilities.
