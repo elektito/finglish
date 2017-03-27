@@ -7,6 +7,7 @@ ambulance آمبولانس
 amdan امداً
 aqua آکوا
 aquarium آکواریوم
+apple اپل
 arrange ارنج
 arrangement ارنجمنت
 ashegh عاشق
@@ -17,6 +18,7 @@ avvalan اولاً
 avalan اولاً
 baba بابا
 babaei بابائی
+bbc بی‌بی‌سی
 brand برند
 basic بیسیک
 beatles بیتلز
@@ -38,14 +40,20 @@ campaign کمپین
 canada کانادا
 case کیس
 cash کش
+caspian کاسپین
 cat کت
 cd سی‌دی
 cent سنت
 cents سنتس
 check چک
 checkin چکین
+cinema سینما
+cisco سیسکو
 christina کریستینا
 class کلاس
+claud کلاود
+cloud کلاود
+cnn سی‌ان‌ان
 coffee کافی
 cooler کولر
 couple کاپل
@@ -75,11 +83,14 @@ ferdows فردوس
 ferdowsi فردوسی
 follow فالو
 follower فالور
+france فرانسه
+francisco فرانسیسکو
 freddy فردی
 free فیری
 friend فرند
 game گیم
 gamer گیمر
+fbi اف‌بی‌آی
 foran فوراً
 gaga گاگا
 gf جی‌اف
@@ -100,6 +111,8 @@ hatman حتماً
 hamburger همبرگر
 helicopter هلیکوپتر
 high های
+hp اچ‌پی
+huawei هواوی
 image ایمیج
 ios آی‌او‌اس
 iphone آیفون
@@ -120,6 +133,7 @@ katy کیتی
 kaveh کاوه
 keyboard کیبرد
 khalse خلسه
+khamesan خامساً
 kiss کیس
 kobra کبری
 kollan کلاً
@@ -177,6 +191,7 @@ order اوردر
 original اورجینال
 ozra عذرا
 page پیج
+pakistan پاکستان
 performance پرفورمنس
 persian پرشین
 perry پری
@@ -193,6 +208,7 @@ porsche پورشه
 pv پی‌وی
 qayeb غایب
 quran قرآن
+rabean رابعاً
 rank رنک
 rebecca ربکا
 receive رسیو
@@ -201,8 +217,11 @@ record رکورد
 rice رایس
 rihanna ریحانا
 roya رویا
+saber صابر
 saeed سعید
 salam سلام
+salesan ثالثاً
+sanian ثانیاً
 sarian سریعاً
 sareean سریعاً
 save سیو
@@ -227,6 +246,7 @@ taqriban تقریباً
 tadrijan تدریجاً
 tahghighan تحقیقاً
 tahqian تحقیقاً
+taxi تاکسی
 taylor تیلور
 ticket تیکت
 timberlake تیمبرلیک
@@ -243,9 +263,12 @@ view ویو
 visual ویژوال
 violin ویولون
 vpn وی‌پی‌ان
+vps وی‌پی‌اس
+voa وی‌او‌ای
 wax واکس
 web وب
 webcam وب‌کم
+windows ویندوز
 winston وینستون
 wire وایر
 wireless وایرلس
@@ -254,4 +277,5 @@ yellow یلو
 you یو
 youtube یوتوب
 xamarin زامارین
+xp اکس‌پی
 
