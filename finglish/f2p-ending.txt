@@ -1,9 +1,12 @@
 a ا اع nothing
+a' ع ئ اع اء
 A ا
+A' اع اء
 b ب
 ch چ
 d د
 e ع ه nothing
+e' ع ئ
 ei ئی یی عی
 f ف
 g گ
@@ -18,6 +21,7 @@ l ل
 m م
 n ن
 o و وع nothing
+o' ع ئ وع
 p پ
 q ق غ
 r ر
@@ -25,6 +29,7 @@ s س ث ص
 sh ش
 t ت ط
 u و وع
+u' وئ
 v و
 w و
 y ی
