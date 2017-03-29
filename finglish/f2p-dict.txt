@@ -30,11 +30,13 @@ ashqal آشغال
 austen آستن
 avalan اولاً
 avvalan اولاً
+ayatollah آیت‌الله
 babaei بابائی
 baba بابا
 bamilo بامیلو
 barack باراک
 barooni بارونی
+baroon بارون
 basic بیسیک
 bbc بی‌بی‌سی
 beatles بیتلز
@@ -103,6 +105,7 @@ collins کالینز
 collin کالین
 colombia کلمبیا
 columbia کلمبیا
+computer کامپیوتر
 cooler کولر
 copperfield کاپرفیلد
 copper کاپر
@@ -145,6 +148,7 @@ esteda استدعا
 etelaat اطلاعات
 ettelaat اطلاعات
 euro یورو
+excel اکسل
 face فیس
 fact فکت
 fasele فاصله
@@ -154,6 +158,7 @@ ferdows فردوس
 follower فالور
 follow فالو
 foran فوراً
+force فورس
 fox فاکس
 france فرانسه
 francisco فرانسیسکو
@@ -184,6 +189,7 @@ gipsy جیپسی
 girlfriend گرل‌فرند
 github گیتهاب
 good گود
+google گوگل
 gpu جی‌پی‌یو
 grade گرید
 green گرین
@@ -203,6 +209,7 @@ hatman حتماً
 hatm حتم
 helicopter هلیکوپتر
 high های
+hojjatoleslam حجت‌الاسلام
 hoori حوری
 hp اچ‌پی
 huawei هواوی
@@ -236,6 +243,7 @@ kamelan کاملاً
 kashef کاشف
 katy کیتی
 kaveh کاوه
+kenaram کنارم
 keyboard کیبرد
 khalse خلسه
 khamesan خامساً
@@ -245,9 +253,11 @@ kiss کیس
 kobra کبری
 kollan کلاً
 kooche کوچه
+kosan کوسن
 kuche کوچه
 lady لیدی
 level لول
+lexus لکسوس
 like لایک
 linux لینوکس
 live لایو
@@ -259,6 +269,7 @@ lopez لوپز
 loser لوزر
 lover لاور
 love لاو
+lucy لوسی
 lux لوکس
 machine ماشین
 mac مک
@@ -267,6 +278,7 @@ mage مگه
 maman مامان
 maree مرئی
 max ماکس
+mercedes مرسدس
 mercury مرکوری
 michael مایکل
 michell میشل
@@ -274,6 +286,7 @@ michigan میشیگان
 miley مایلی
 mind مایند
 mix میکس
+mobile موبایل
 money مانی
 monica مونیکا
 moosa موسی
@@ -287,7 +300,11 @@ mouse ماوس
 movie مووی
 musa موسی
 music موزیک
+naghes ناقص
+naghez ناقض
 nancy نانسی
+naqes ناقص
+naqez ناقض
 nazem ناظم
 nesbatan نسبتاً
 news نیوز
@@ -313,6 +330,7 @@ pakistan پاکستان
 pandvash پندوش
 pasho پاشو
 paya پایا
+pc پی‌سی
 performance پرفورمنس
 perry پری
 persian پرشین
@@ -324,6 +342,7 @@ play پلی
 police پلیس
 porsche پورشه
 position پوزیشن
+powerpoint پاورپوینت
 presley پرسلی
 pride پراید
 princess پرنسس
@@ -355,6 +374,7 @@ rihanna ریحانا
 rock راک
 roya رویا
 saber صابر
+sabet ثابت
 saeed سعید
 sahab سحاب
 salam سلام
@@ -365,6 +385,8 @@ sara سارا
 sareean سریعاً
 sarian سریعاً
 save سیو
+screenshot اسکرین‌شات
+screen اسکرین
 send سند
 sexy سکسی
 sex سکس
@@ -424,6 +446,7 @@ unix یونیکس
 ups یو‌پی‌اس
 up آپ
 usb یو‌اس‌بی
+user یوزر
 vala والا
 valentine ولنتاین
 viber وایبر
@@ -445,6 +468,7 @@ windows ویندوز
 winston وینستون
 wireless وایرلس
 wire وایر
+word ورد
 xamarin زامارین
 xp اکس‌پی
 yahya یحیی
