@@ -1,3 +1,4 @@
+
 2pac توپاک
 abc ای‌بی‌سی
 abdollahian عبداللهیان
@@ -13,6 +14,8 @@ adele ادل
 africa آفریقا
 aguilera اگویلریا
 akradi اکرادی
+alexis الکسیس
+alex الکس
 alpha آلفا
 ambulance آمبولانس
 amdan امداً
@@ -41,6 +44,7 @@ basic بیسیک
 bbc بی‌بی‌سی
 beatles بیتلز
 beat بیت
+bekheir به خیر
 bellucci بلوچی
 beshe بشه
 best بست
@@ -60,6 +64,7 @@ britney بریتنی
 bruce بروس
 burder برگر
 busy بیزی
+byte بایت
 cable کابل
 cache کش
 cafe کافه
@@ -129,6 +134,7 @@ decor دکور
 delux دلوکس
 dido دایدو
 digikala دیجی‌کالا
+disc دیسک
 dj دی‌جی
 dom دم
 down داون
@@ -152,6 +158,7 @@ excel اکسل
 face فیس
 fact فکت
 fasele فاصله
+fax فاکس
 fbi اف‌بی‌آی
 ferdowsi فردوسی
 ferdows فردوس
@@ -196,19 +203,24 @@ green گرین
 group گروپ
 gucci گوچی
 guitar گیتار
+hacker هکر
 haghighatan حقیقتاً
 hajipoor حاجی‌پور
 hajipour حاجی‌پور
 hajipur حاجی‌پور
 halal حلال
 hallal حلال
+halva حلوا
 hamburger همبرگر
 hame همه
 haqiqatan حقیقتاً
 hatman حتماً
 hatm حتم
 helicopter هلیکوپتر
+hex هگز
+hifi های‌فای
 high های
+hi های
 hojjatoleslam حجت‌الاسلام
 hoori حوری
 hp اچ‌پی
@@ -224,6 +236,7 @@ isa عیسی
 israel اسرائیل
 jackson جکسون
 jack جک
+jac جک
 jadidan جدیداً
 james جیمز
 jane جین
@@ -306,6 +319,7 @@ nancy نانسی
 naqes ناقص
 naqez ناقض
 nazem ناظم
+na نه
 nesbatan نسبتاً
 news نیوز
 new نیو
@@ -369,6 +383,7 @@ receiver رسیور
 receive رسیو
 record رکورد
 remix ریمیکس
+rex رکس
 rice رایس
 rihanna ریحانا
 rock راک
@@ -379,15 +394,19 @@ saeed سعید
 sahab سحاب
 salam سلام
 salesan ثالثاً
+sandis ساندیس
 sanian ثانیاً
 sarah سارا
 sara سارا
 sareean سریعاً
 sarian سریعاً
+satar ستار
+sattar ستار
 save سیو
 screenshot اسکرین‌شات
 screen اسکرین
 send سند
+setar ستاره
 sexy سکسی
 sex سکس
 shadidan شدیداً
@@ -415,11 +434,14 @@ soundtrack ساندترک
 source سورس
 speaker اسپیکر
 spears اسپیرز
+standard استاندارد
 steel استیل
 sting استینگ
 style استیل
 sucker ساکر
 suck ساک
+sundis ساندیس
+sunich سان‌ایچ
 support ساپورت
 swift سویفت
 tadrijan تدریجاً
@@ -432,6 +454,7 @@ taleb طالب
 taqriban تقریباً
 taxi تاکسی
 taylor تیلور
+texas تگزاس
 thom تام
 ticket تیکت
 timberlake تیمبرلیک
@@ -449,6 +472,7 @@ usb یو‌اس‌بی
 user یوزر
 vala والا
 valentine ولنتاین
+vay وای
 viber وایبر
 vibes وایبز
 vibe وایب
@@ -462,6 +486,7 @@ vps وی‌پی‌اس
 wax واکس
 webcam وب‌کم
 web وب
+wifi وای‌فای
 williams ویلیامز
 william ویلیام
 windows ویندوز
