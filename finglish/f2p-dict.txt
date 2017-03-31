@@ -128,6 +128,7 @@ daghighan دقیقاً
 dana دانا
 daqiqan دقیقاً
 daram دارم
+dareh داره
 david دیوید
 decor دکور
 delux دلوکس
@@ -213,6 +214,8 @@ halva حلوا
 hamburger همبرگر
 hame همه
 haqiqatan حقیقتاً
+hasanzadeh حسن‌زاده
+hasanzade حسن‌زاده
 hatman حتماً
 hatm حتم
 helicopter هلیکوپتر
@@ -317,6 +320,8 @@ naghez ناقض
 nancy نانسی
 naqes ناقص
 naqez ناقض
+narafigh نارفیق
+narafiq نارفیق
 nazem ناظم
 na نه
 nesbatan نسبتاً
@@ -339,6 +344,7 @@ oscar اسکار
 ozra عذرا
 o و
 page پیج
+pahlan پهلان
 pakistan پاکستان
 pandvash پندوش
 pasho پاشو
