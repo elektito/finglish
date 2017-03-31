@@ -67,6 +67,7 @@ byte بایت
 cable کابل
 cache کش
 cafe کافه
+cake کیک
 cameron کامرون
 campaign کمپین
 cam کم
@@ -88,6 +89,7 @@ cents سنتس
 cent سنت
 checkin چکین
 check چک
+chopin شوپن
 christina کریستینا
 chris کریس
 chuck چاک
@@ -101,9 +103,12 @@ claud کلاود
 clinton کلینتون
 cloud کلاود
 cnn سی‌ان‌ان
+cocacola کوکاکولا
+coca کوکا
 coffeeshop کافی‌شاپ
 coffee کافی
 cohen کوهن
+cola کولا
 cold کلد
 collins کالینز
 collin کالین
@@ -136,6 +141,7 @@ dido دایدو
 digikala دیجی‌کالا
 disc دیسک
 dj دی‌جی
+doctor دکتر
 dom دم
 down داون
 dvd دی‌وی‌دی
@@ -186,6 +192,7 @@ ghannadi قنادی
 ghannad قناد
 ghatan قطعاً
 ghatel قاتل
+ghater قاطر
 ghavam قوام
 ghayeb غایب
 gholamali غلام‌علی
@@ -224,6 +231,7 @@ hifi های‌فای
 high های
 hi های
 hojjatoleslam حجت‌الاسلام
+holly هالی
 hoori حوری
 hp اچ‌پی
 huawei هواوی
@@ -264,6 +272,7 @@ khalse خلسه
 khamesan خامساً
 kharatha خراطها
 kharratha خراطها
+khiali خیالی
 kiss کیس
 kobra کبری
 kollan کلاً
@@ -291,6 +300,9 @@ mac مک
 madonna مدونا
 mage مگه
 maman مامان
+mamoor مأمور
+mamour مأمور
+mamur مأمور
 maree مرئی
 max ماکس
 mercedes مرسدس
@@ -373,6 +385,7 @@ pv پی‌وی
 qannadi قنادی
 qannad قناد
 qatel قاتل
+qater قاطر
 qavam قوام
 qayeb غایب
 qolamali غلام‌علی
@@ -410,6 +423,7 @@ sattar ستار
 save سیو
 screenshot اسکرین‌شات
 screen اسکرین
+selena سلنا
 send سند
 setar ستاره
 sexy سکسی
