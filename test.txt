@@ -35,4 +35,5 @@ mo'ood موعود
 mi'ad میعاد
 ra'yat رعیت
 ha'eri حائری
-
+soal سؤال
+so'al سؤال
