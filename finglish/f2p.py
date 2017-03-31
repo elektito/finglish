@@ -149,7 +149,7 @@ def f2p_word(word, max_word_size=15, cutoff=3):
     # of possibilities.
     return results[:cutoff]
 
-def f2p(phrase, max_word_size=15, cutoff=3):
+def f2p_list(phrase, max_word_size=15, cutoff=3):
     """Convert a phrase from Finglish to Persian.
 
     phrase: The phrase to convert.
@@ -160,6 +160,10 @@ def f2p(phrase, max_word_size=15, cutoff=3):
     cutoff: The cut-off point. For each word, there could be many
     possibilities. By default 3 of these possibilities are considered
     for each word. This number can be changed by this argument.
+
+    Returns a list of lists, each sub-list contains a number of
+    possibilities for each word as a pair of (word, confidence)
+    values.
 
     """
 
@@ -173,30 +177,21 @@ def f2p(phrase, max_word_size=15, cutoff=3):
     # convert each word separately
     results = [f2p_word(w, max_word_size, cutoff) for w in results]
 
-    # create the Cartesian product of the results
-    results = list(itertools.product(*results))
-
-    # the results now contain (word, confidence) pairs. re-group these
-    # so that words are in one tuple and the confidence values are in
-    # another
-    results = [list(zip(*r)) for r in results]
-
-    # join the words into phrases, while calculate the multiplication
-    # product of the confidence values
-    results = [(' '.join(words), reduce(lambda x, y: x * y, confs))
-               for words, confs in results]
-
-    # sort based on the confidence (product)
-    results.sort(key=lambda r: r[1], reverse=True)
-
     return results
+
+def f2p(phrase, max_word_size=15, cutoff=3):
+    """Convert a Finglish phrase to the most probable Persian phrase.
+
+    """
+
+    results = f2p_list(phrase, max_word_size, cutoff)
+    return ' '.join(i[0][0] for i in results)
 
 def main():
     print('finglish: ', end='')
     phrase = input()
-    results = f2p(phrase)
-    for p, c in results[:10]:
-        print(c, p)
+    result = f2p(phrase)
+    print(result)
 
 if __name__ == '__main__':
     main()
