@@ -89,6 +89,8 @@ sh, etc."""
         return [[word]]
     elif word in ["a'", "e'", "o'", "i'", "u'", "A'"]:
         return [[word[0] + "'"]]
+    elif word in ["'a", "'e", "'o", "'i", "'u", "'A"]:
+        return [["'" + word[0]]]
     elif len(word) == 2 and word[0] == word[1]:
         return [[word[0]]]
 
@@ -108,6 +110,8 @@ sh, etc."""
             [[word[:2]] + i for i in variations(word[2:])] + \
             [[word[0]] + i for i in variations(word[1:])]
     elif word[:2] in ["a'", "e'", "o'", "i'", "u'", "A'"]:
+        return [[word[:2]] + i for i in variations(word[2:])]
+    elif word[:2] in ["'a", "'e", "'o", "'i", "'u", "'A"]:
         return [[word[:2]] + i for i in variations(word[2:])]
     elif len(word) >= 2 and word[0] == word[1]:
         return [[word[0]] + i for i in variations(word[2:])]
