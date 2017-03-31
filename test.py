@@ -13,7 +13,7 @@ def main():
     failures = 0
     for finglish, expected_persian in pairs:
         persian = f2p(finglish)
-        if len(persian) == 0 or persian[0][0] != expected_persian:
+        if len(persian) == 0 or persian != expected_persian:
             print('Test case for "{}" failed: Expected "{}" but got "{}".'
                   .format(finglish, expected_persian, persian))
             failures += 1
