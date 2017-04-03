@@ -22,6 +22,7 @@ america آمریکا
 apple اپل
 aquarium آکواریوم
 aqua آکوا
+archive آرشیو
 ariana آریانا
 arrangement ارنجمنت
 arrange ارنج
@@ -35,6 +36,7 @@ avvalan اولاً
 ayatollah آیت‌الله
 babaei بابائی
 baba بابا
+bahareh بهاره
 bamilo بامیلو
 barack باراک
 barooni بارونی
@@ -144,6 +146,7 @@ dj دی‌جی
 doctor دکتر
 dom دم
 down داون
+duff داف
 dvd دی‌وی‌دی
 dylan دیلان
 echo اکو
@@ -152,6 +155,7 @@ ejalatan اجالتاً
 elahi الهی
 elle ال
 elvis الویس
+emadi عمادی
 eminem امینم
 enrique انریکه
 eric اریک
@@ -187,6 +191,7 @@ game گیم
 garcia گارسیا
 george جورج
 gf جی‌اف
+ghalb قلب
 gham غم
 ghannadi قنادی
 ghannad قناد
@@ -266,13 +271,16 @@ kamelan کاملاً
 kashef کاشف
 katy کیتی
 kaveh کاوه
+kaya کایا
 kenaram کنارم
 keyboard کیبرد
 khalse خلسه
 khamesan خامساً
 kharatha خراطها
+kharat خراط
 kharratha خراطها
 khiali خیالی
+kharrat خراط
 kiss کیس
 kobra کبری
 kollan کلاً
@@ -341,6 +349,8 @@ news نیوز
 new نیو
 nicki نیکی
 nima نیما
+nimeyeh نیمه
+nimeye نیمه
 offer آفر
 official آفیشال
 offline آفلاین
@@ -483,6 +493,7 @@ tolkien تالکین
 top تاپ
 touchpad تاچپد
 touch تاچ
+trump ترامپ
 tweet تویت
 type تایپ
 unix یونیکس
@@ -490,8 +501,12 @@ ups یو‌پی‌اس
 up آپ
 usb یو‌اس‌بی
 user یوزر
+vaghe'an واقعاً
+vaghean واقعاً
 vala والا
 valentine ولنتاین
+vaqe'an واقعاً
+vaqean واقعاً
 vay وای
 viber وایبر
 vibes وایبز
