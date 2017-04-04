@@ -91,6 +91,7 @@ cents سنتس
 cent سنت
 checkin چکین
 check چک
+cheshmaye چشمای
 chopin شوپن
 christina کریستینا
 chris کریس
@@ -139,6 +140,7 @@ dareh داره
 david دیوید
 decor دکور
 delux دلوکس
+delvapasam دلواپسم
 dido دایدو
 digikala دیجی‌کالا
 disc دیسک
@@ -230,6 +232,7 @@ hasanzadeh حسن‌زاده
 hasanzade حسن‌زاده
 hatman حتماً
 hatm حتم
+havalie حوالی
 helicopter هلیکوپتر
 hex هگز
 hifi های‌فای
@@ -279,8 +282,9 @@ khamesan خامساً
 kharatha خراطها
 kharat خراط
 kharratha خراطها
-khiali خیالی
 kharrat خراط
+khiali خیالی
+khoda خدا
 kiss کیس
 kobra کبری
 kollan کلاً
@@ -533,6 +537,7 @@ xamarin زامارین
 xp اکس‌پی
 yahya یحیی
 yellow یلو
+ye یه
 youtube یوتوب
 you یو
 zahra زهرا
