@@ -15,6 +15,7 @@ aguilera اگویلریا
 akradi اکرادی
 alexis الکسیس
 alex الکس
+alibahadori علی‌بهادری
 alpha آلفا
 ambulance آمبولانس
 amdan امداً
@@ -56,13 +57,16 @@ bieber بیبر
 blonde بلوند
 blond بلوند
 bmw بی‌ام‌و
+boa بوا
 bob باب
+booa بوا
 bot بات
 bowie بووی
 boyfriend بوی‌فرند
 brand برند
 britney بریتنی
 bruce بروس
+bua بوا
 burder برگر
 busy بیزی
 byte بایت
@@ -94,6 +98,7 @@ check چک
 cheshmaye چشمای
 chopin شوپن
 christina کریستینا
+christmas کریسمس
 chris کریس
 chuck چاک
 cigarette سیگارت
@@ -145,10 +150,14 @@ dido دایدو
 digikala دیجی‌کالا
 disc دیسک
 dj دی‌جی
+doa دعا
 doctor دکتر
 dom دم
+donyam دنیام
+dor دور
 down داون
 duff داف
+dumbledore دامبلدور
 dvd دی‌وی‌دی
 dylan دیلان
 echo اکو
@@ -169,6 +178,7 @@ euro یورو
 excel اکسل
 face فیس
 fact فکت
+fardaye فردای
 fasele فاصله
 fax فاکس
 fbi اف‌بی‌آی
@@ -192,6 +202,7 @@ gamer گیمر
 game گیم
 garcia گارسیا
 george جورج
+gereye گره
 gf جی‌اف
 ghalb قلب
 gham غم
@@ -239,6 +250,7 @@ hifi های‌فای
 high های
 hi های
 hojjatoleslam حجت‌الاسلام
+holiday هالیدی
 holly هالی
 hoori حوری
 hp اچ‌پی
@@ -265,6 +277,7 @@ jesaaratan جسارتاً
 jesaratan جسارتاً
 johnny جانی
 john جان
+joseph ژوزف
 json جیسون
 justin جاستین
 just جاست
@@ -279,14 +292,17 @@ kenaram کنارم
 keyboard کیبرد
 khalse خلسه
 khamesan خامساً
+khaneye خانه
 kharatha خراطها
 kharat خراط
 kharratha خراطها
 kharrat خراط
 khiali خیالی
+khiyalet خیالت
 khoda خدا
 kiss کیس
 kobra کبری
+kohne کهنه
 kollan کلاً
 kooche کوچه
 kosan کوسن
@@ -332,11 +348,13 @@ moosa موسی
 mortaza مرتضی
 morteza مرتضی
 moscow مسکو
+moshk مشک
 mostafa مصطفی
 motherboard مادربرد
 mother مادر
 mouse ماوس
 movie مووی
+muggle ماگل
 musa موسی
 music موزیک
 naghes ناقص
@@ -346,8 +364,10 @@ naqes ناقص
 naqez ناقض
 narafigh نارفیق
 narafiq نارفیق
+navaei نوایی
 nazem ناظم
 na نه
+neon نئون
 nesbatan نسبتاً
 news نیوز
 new نیو
@@ -373,6 +393,7 @@ page پیج
 pahlan پهلان
 pakistan پاکستان
 pandvash پندوش
+parkway پارک‌وی
 pasho پاشو
 paya پایا
 pc پی‌سی
@@ -387,6 +408,7 @@ play پلی
 police پلیس
 porsche پورشه
 position پوزیشن
+potter پاتر
 powerpoint پاورپوینت
 presley پرسلی
 pride پراید
@@ -456,6 +478,7 @@ shamaeizadeh شماعی‌زاده
 shamaeizade شماعی‌زاده
 shojaan شجاعان
 shop شاپ
+sho شو
 sia سیا
 sima سیما
 snapp اسنپ
@@ -468,6 +491,7 @@ soundtrack ساندترک
 source سورس
 speaker اسپیکر
 spears اسپیرز
+stalin استالین
 standard استاندارد
 steel استیل
 sting استینگ
@@ -517,6 +541,7 @@ vibes وایبز
 vibe وایب
 video ویدیو
 view ویو
+viguen ویگن
 violin ویولون
 visual ویژوال
 voa وی‌او‌ای
