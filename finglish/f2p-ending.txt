@@ -2,18 +2,22 @@ a ا اع nothing
 a' ع ئ اع اء
 A ا
 A' اع اء
+'a ئا عا
+'A ئا عا
 b ب
 ch چ
 ck ک
 d د
 e ع ه nothing
 e' ع ئ
+'e ع ء
 ei ئی یی عی
 f ف
 g گ
 gh ق غ
 h ه ح
 i ی یع
+'i ئی عی
 j ج ژ
 k ک
 kh خ
@@ -23,6 +27,7 @@ m م
 n ن
 o و وع nothing
 o' ع ئ وع
+'o عو ئو
 p پ
 q ق غ
 r ر
@@ -31,9 +36,11 @@ sh ش
 t ت ط
 u و وع
 u' وئ
+'u ئو عو
 v و
 w و
 x کس
 y ی
 z ز ذ ض ظ
 zh ژ
+' ء ع
