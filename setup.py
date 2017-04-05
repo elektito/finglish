@@ -13,7 +13,7 @@ def get_file_path(name):
         os.path.dirname(__file__),
         name))
 
-with open(get_file_path('version.py')) as f:
+with open(get_file_path('finglish/version.py')) as f:
     exec(f.read())
 
 # read requirements from requirements.txt

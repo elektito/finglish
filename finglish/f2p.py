@@ -5,6 +5,8 @@ import re
 import itertools
 from functools import reduce
 
+from .version import __version__
+
 sep_regex = re.compile(r'[ \-_~!@#%$^&*\(\)\[\]\{\}/\:;"|,./?`]')
 
 def get_portable_filename(filename):
@@ -200,6 +202,7 @@ def f2p(phrase, max_word_size=15, cutoff=3):
     return ' '.join(i[0][0] for i in results)
 
 def main():
+    print('Finglish to Persian Converter, v{}'.format(__version__))
     print('finglish: ', end='')
     phrase = input()
     result = f2p(phrase)
