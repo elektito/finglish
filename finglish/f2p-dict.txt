@@ -1,3 +1,4 @@
+
 2pac توپاک
 abc ای‌بی‌سی
 abdollahian عبداللهیان
@@ -8,6 +9,7 @@ abdollah عبدالله
 abdolmalekian عبدالملکیان
 abdolmaleki عبدالملکی
 abs ای‌بی‌اس
+acid اسید
 action اکشن
 adele ادل
 africa آفریقا
@@ -56,6 +58,7 @@ bia بیا
 bieber بیبر
 blonde بلوند
 blond بلوند
+blunt بلانت
 bmw بی‌ام‌و
 boa بوا
 bob باب
@@ -229,6 +232,7 @@ group گروپ
 gucci گوچی
 guitar گیتار
 hacker هکر
+hafez حافظ
 haghighatan حقیقتاً
 hajipoor حاجی‌پور
 hajipour حاجی‌پور
@@ -253,6 +257,8 @@ hojjatoleslam حجت‌الاسلام
 holiday هالیدی
 holly هالی
 hoori حوری
+hosseinzadeh حسین‌زاده
+hosseinzade حسین‌زاده
 hp اچ‌پی
 huawei هواوی
 hub هاب
@@ -283,6 +289,7 @@ justin جاستین
 just جاست
 kaffash کفاش
 kah کاه
+kamal کمال
 kamelan کاملاً
 kashef کاشف
 katy کیتی
@@ -342,6 +349,8 @@ miley مایلی
 mind مایند
 mix میکس
 mobile موبایل
+mojtaba مجتبی
+mojtabaa مجتبی
 money مانی
 monica مونیکا
 moosa موسی
@@ -354,6 +363,7 @@ motherboard مادربرد
 mother مادر
 mouse ماوس
 movie مووی
+mozzart موتزات
 muggle ماگل
 musa موسی
 music موزیک
@@ -403,6 +413,7 @@ persian پرشین
 pharrel فرل
 photoshop فتوشاپ
 plan پلن
+plastic پلاستیک
 playstation پلی‌استیشن
 play پلی
 police پلیس
@@ -448,6 +459,7 @@ saeed سعید
 sahab سحاب
 salam سلام
 salesan ثالثاً
+salha سال‌ها
 sandis ساندیس
 sanian ثانیاً
 sarah سارا
@@ -565,5 +577,6 @@ yellow یلو
 ye یه
 youtube یوتوب
 you یو
+zaheran ظاهراً
 zahra زهرا
 zombie زامبی
