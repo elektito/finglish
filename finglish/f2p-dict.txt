@@ -1,4 +1,3 @@
-
 2pac توپاک
 abc ای‌بی‌سی
 abdollahian عبداللهیان
@@ -374,7 +373,7 @@ michael مایکل
 michell میشل
 michigan میشیگان
 microscope میکروسکوپ
-microsoft میکروسافت
+microsoft مایکروسافت
 micro میکرو
 miley مایلی
 mind مایند
