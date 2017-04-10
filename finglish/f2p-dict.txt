@@ -9,15 +9,18 @@ abdollah عبدالله
 abdolmalekian عبدالملکیان
 abdolmaleki عبدالملکی
 abs ای‌بی‌اس
+acemoon آسمون
 acid اسید
 action اکشن
 adele ادل
 africa آفریقا
 aguilera اگویلریا
 akradi اکرادی
+alem عالم
 alexis الکسیس
 alex الکس
 alibahadori علی‌بهادری
+allah الله
 alpha آلفا
 ambulance آمبولانس
 amdan امداً
@@ -33,6 +36,7 @@ ashegh عاشق
 asheq عاشق
 ashghal آشغال
 ashqal آشغال
+asimov آسیموف
 austen آستن
 avalan اولاً
 avvalan اولاً
@@ -48,6 +52,8 @@ basic بیسیک
 bbc بی‌بی‌سی
 beatles بیتلز
 beat بیت
+bekaram بکارم
+bekarim بکاریم
 bekheir به خیر
 bellucci بلوچی
 beshe بشه
@@ -56,6 +62,7 @@ beyonce بیانسه
 bf بی‌اف
 bia بیا
 bieber بیبر
+blog بلاگ
 blonde بلوند
 blond بلوند
 blunt بلانت
@@ -71,6 +78,7 @@ britney بریتنی
 bruce بروس
 bua بوا
 burder برگر
+burger برگر
 busy بیزی
 byte بایت
 cable کابل
@@ -94,6 +102,7 @@ cat کت
 cd سی‌دی
 cebit سبیت
 celebrity سلبریتی
+centimeter سانتی‌متر
 cents سنتس
 cent سنت
 checkin چکین
@@ -109,6 +118,9 @@ cigar سیگار
 cinema سینما
 cisco سیسکو
 city سیتی
+clans کلنز
+clan کلن
+clash کلش
 class کلاس
 claud کلاود
 clinton کلینتون
@@ -125,6 +137,7 @@ collins کالینز
 collin کالین
 colombia کلمبیا
 columbia کلمبیا
+combat کمبت
 computer کامپیوتر
 cooler کولر
 copperfield کاپرفیلد
@@ -154,6 +167,7 @@ digikala دیجی‌کالا
 disc دیسک
 dj دی‌جی
 doa دعا
+docker داکر
 doctor دکتر
 dom دم
 donyam دنیام
@@ -220,6 +234,7 @@ gholamali غلام‌علی
 gholamreza غلام‌رضا
 gholam غلام
 ghuran قرآن
+gigabyte گیگابایت
 gipsy جیپسی
 girlfriend گرل‌فرند
 github گیتهاب
@@ -238,6 +253,7 @@ hajipoor حاجی‌پور
 hajipour حاجی‌پور
 hajipur حاجی‌پور
 halal حلال
+halam حالم
 hallal حلال
 halva حلوا
 hamburger همبرگر
@@ -253,6 +269,7 @@ hex هگز
 hifi های‌فای
 high های
 hi های
+hobbit هابیت
 hojjatoleslam حجت‌الاسلام
 holiday هالیدی
 holly هالی
@@ -268,6 +285,7 @@ ice آیس
 image ایمیج
 ios آی‌او‌اس
 iphone آیفون
+isaac ایساک
 isa عیسی
 israel اسرائیل
 jackson جکسون
@@ -292,6 +310,7 @@ kah کاه
 kamal کمال
 kamelan کاملاً
 kashef کاشف
+kashtand کاشتند
 katy کیتی
 kaveh کاوه
 kaya کایا
@@ -307,10 +326,13 @@ kharrat خراط
 khiali خیالی
 khiyalet خیالت
 khoda خدا
+kilobyte کیلوبایت
 kiss کیس
 kobra کبری
 kohne کهنه
 kollan کلاً
+kombat کمبت
+kon کن
 kooche کوچه
 kosan کوسن
 kuche کوچه
@@ -330,6 +352,8 @@ lover لاور
 love لاو
 lucy لوسی
 lux لوکس
+macbook مک‌بوک
+macdonald مک‌دونالد
 machine ماشین
 mac مک
 madonna مدونا
@@ -339,12 +363,19 @@ mamoor مأمور
 mamour مأمور
 mamur مأمور
 maree مرئی
+mario ماریو
 max ماکس
+mcdonald مک‌دونالد
+megabyte مگابایت
 mercedes مرسدس
+merci مرسی
 mercury مرکوری
 michael مایکل
 michell میشل
 michigan میشیگان
+microscope میکروسکوپ
+microsoft میکروسافت
+micro میکرو
 miley مایلی
 mind مایند
 mix میکس
@@ -354,6 +385,7 @@ mojtabaa مجتبی
 money مانی
 monica مونیکا
 moosa موسی
+mortal مورتال
 mortaza مرتضی
 morteza مرتضی
 moscow مسکو
@@ -385,6 +417,7 @@ nicki نیکی
 nima نیما
 nimeyeh نیمه
 nimeye نیمه
+nozari نظری
 offer آفر
 official آفیشال
 offline آفلاین
@@ -406,10 +439,12 @@ pandvash پندوش
 parkway پارک‌وی
 pasho پاشو
 paya پایا
+paye پای
 pc پی‌سی
 performance پرفورمنس
 perry پری
 persian پرشین
+persia پرشیا
 pharrel فرل
 photoshop فتوشاپ
 plan پلن
@@ -417,6 +452,7 @@ plastic پلاستیک
 playstation پلی‌استیشن
 play پلی
 police پلیس
+polytechnic پلی‌تکنیک
 porsche پورشه
 position پوزیشن
 potter پاتر
@@ -429,6 +465,7 @@ private پرایوت
 public پابلیک
 puzzle پازل
 pv پی‌وی
+python پایتون
 qannadi قنادی
 qannad قناد
 qatel قاتل
@@ -452,6 +489,8 @@ rex رکس
 rice رایس
 rihanna ریحانا
 rock راک
+roham رهام
+rohham رهام
 roya رویا
 saber صابر
 sabet ثابت
@@ -459,6 +498,7 @@ saeed سعید
 sahab سحاب
 salam سلام
 salesan ثالثاً
+sales ثالث
 salha سال‌ها
 sandis ساندیس
 sanian ثانیاً
@@ -473,6 +513,7 @@ screenshot اسکرین‌شات
 screen اسکرین
 selena سلنا
 send سند
+sepidari سپیداری
 setar ستاره
 sexy سکسی
 sex سکس
@@ -505,6 +546,8 @@ speaker اسپیکر
 spears اسپیرز
 stalin استالین
 standard استاندارد
+stanislaw استانیسلاو
+star استار
 steel استیل
 sting استینگ
 style استیل
@@ -522,8 +565,13 @@ talebzadeh طالب‌زاده
 talebzade طالب‌زاده
 taleb طالب
 taqriban تقریباً
+tasamoh تسامح
 taxi تاکسی
 taylor تیلور
+technician تکنیسین
+techno تکنو
+telescope تلسکوپ
+terabyte ترابایت
 texas تگزاس
 thom تام
 ticket تیکت
@@ -557,10 +605,14 @@ viguen ویگن
 violin ویولون
 visual ویژوال
 voa وی‌او‌ای
+voice وویس
 vpn وی‌پی‌ان
 vps وی‌پی‌اس
+wars وارز
+war وار
 wax واکس
 webcam وب‌کم
+weblog وبلاگ
 web وب
 wifi وای‌فای
 williams ویلیامز
@@ -571,6 +623,7 @@ wireless وایرلس
 wire وایر
 word ورد
 xamarin زامارین
+xantia زانتیا
 xp اکس‌پی
 yahya یحیی
 yellow یلو
