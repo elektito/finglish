@@ -40,6 +40,7 @@ austen آستن
 avalan اولاً
 avvalan اولاً
 ayatollah آیت‌الله
+aziztarinam عزیزترینم
 babaei بابائی
 baba بابا
 bahareh بهاره
@@ -88,6 +89,7 @@ cameron کامرون
 campaign کمپین
 cam کم
 canada کانادا
+capsule کپسول
 captain کاپیتان
 card کارد
 carl کارل
@@ -138,6 +140,7 @@ colombia کلمبیا
 columbia کلمبیا
 combat کمبت
 computer کامپیوتر
+console کنسول
 cooler کولر
 copperfield کاپرفیلد
 copper کاپر
@@ -163,6 +166,7 @@ delux دلوکس
 delvapasam دلواپسم
 dido دایدو
 digikala دیجی‌کالا
+digital دیجیتال
 disc دیسک
 dj دی‌جی
 doa دعا
@@ -210,6 +214,7 @@ francisco فرانسیسکو
 freddy فردی
 free فیری
 friend فرند
+fringe فرینج
 fucker فاکر
 fuck فاک
 gadget گجت
@@ -263,6 +268,10 @@ hasanzade حسن‌زاده
 hatman حتماً
 hatm حتم
 havalie حوالی
+headphones هدفون
+headphone هدفون
+headset هدست
+head هد
 helicopter هلیکوپتر
 hex هگز
 hifi های‌فای
@@ -287,6 +296,7 @@ iphone آیفون
 isaac ایساک
 isa عیسی
 israel اسرائیل
+istanbul استانبول
 jackson جکسون
 jack جک
 jac جک
@@ -308,6 +318,7 @@ kaffash کفاش
 kah کاه
 kamal کمال
 kamelan کاملاً
+kamva کاموا
 kashef کاشف
 kashtand کاشتند
 katy کیتی
@@ -339,6 +350,7 @@ lady لیدی
 level لول
 lexus لکسوس
 like لایک
+lincoln لینکولن
 linux لینوکس
 live لایو
 loader لودر
@@ -347,6 +359,7 @@ load لود
 london لندن
 lopez لوپز
 loser لوزر
+lost لاست
 lover لاور
 love لاو
 lucy لوسی
@@ -363,8 +376,10 @@ mamour مأمور
 mamur مأمور
 maree مرئی
 mario ماریو
+mavi ماوی
 max ماکس
 mcdonald مک‌دونالد
+meen مین
 megabyte مگابایت
 mercedes مرسدس
 merci مرسی
@@ -377,10 +392,11 @@ microsoft مایکروسافت
 micro میکرو
 miley مایلی
 mind مایند
+min مین
 mix میکس
 mobile موبایل
-mojtaba مجتبی
 mojtabaa مجتبی
+mojtaba مجتبی
 money مانی
 monica مونیکا
 moosa موسی
@@ -416,6 +432,8 @@ nicki نیکی
 nima نیما
 nimeyeh نیمه
 nimeye نیمه
+nostalgia نوستالژی
+nostalgic نوستالژیک
 nozari نظری
 offer آفر
 official آفیشال
@@ -456,6 +474,7 @@ porsche پورشه
 position پوزیشن
 potter پاتر
 powerpoint پاورپوینت
+power پاور
 presley پرسلی
 pride پراید
 princess پرنسس
@@ -484,6 +503,7 @@ receiver رسیور
 receive رسیو
 record رکورد
 remix ریمیکس
+reset ریست
 rex رکس
 rice رایس
 rihanna ریحانا
@@ -569,6 +589,8 @@ taxi تاکسی
 taylor تیلور
 technician تکنیسین
 techno تکنو
+telephone تلفن
+telephony تلفنی
 telescope تلسکوپ
 terabyte ترابایت
 texas تگزاس
@@ -581,6 +603,7 @@ top تاپ
 touchpad تاچپد
 touch تاچ
 trump ترامپ
+turkey ترکیه
 tweet تویت
 type تایپ
 unix یونیکس
