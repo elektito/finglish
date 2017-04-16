@@ -16,6 +16,7 @@ africa آفریقا
 aguilera اگویلریا
 akradi اکرادی
 alem عالم
+alexa الکسا
 alexis الکسیس
 alex الکس
 alibahadori علی‌بهادری
@@ -39,7 +40,9 @@ asimov آسیموف
 austen آستن
 avalan اولاً
 avvalan اولاً
+ayate آیات
 ayatollah آیت‌الله
+ayat آیات
 aziztarinam عزیزترینم
 babaei بابائی
 baba بابا
@@ -176,6 +179,7 @@ dom دم
 donyam دنیام
 dor دور
 down داون
+dracula دراکولا
 duff داف
 dumbledore دامبلدور
 dvd دی‌وی‌دی
@@ -263,6 +267,8 @@ halva حلوا
 hamburger همبرگر
 hame همه
 haqiqatan حقیقتاً
+hasabe حسب
+hasab حسب
 hasanzadeh حسن‌زاده
 hasanzade حسن‌زاده
 hatman حتماً
@@ -272,10 +278,12 @@ headphones هدفون
 headphone هدفون
 headset هدست
 head هد
+heeva هیوا
 helicopter هلیکوپتر
 hex هگز
 hifi های‌فای
 high های
+hiva هیوا
 hi های
 hobbit هابیت
 hojjatoleslam حجت‌الاسلام
@@ -325,6 +333,7 @@ katy کیتی
 kaveh کاوه
 kaya کایا
 kenaram کنارم
+ketchup کچاپ
 keyboard کیبرد
 khalse خلسه
 khamesan خامساً
@@ -347,6 +356,7 @@ kooche کوچه
 kosan کوسن
 kuche کوچه
 lady لیدی
+lara لارا
 level لول
 lexus لکسوس
 like لایک
@@ -376,9 +386,11 @@ mamour مأمور
 mamur مأمور
 maree مرئی
 mario ماریو
+markez مارکز
 mavi ماوی
 max ماکس
 mcdonald مک‌دونالد
+meena مینا
 meen مین
 megabyte مگابایت
 mercedes مرسدس
@@ -391,6 +403,7 @@ microscope میکروسکوپ
 microsoft مایکروسافت
 micro میکرو
 miley مایلی
+mina مینا
 mind مایند
 min مین
 mix میکس
@@ -422,6 +435,8 @@ naqez ناقض
 narafigh نارفیق
 narafiq نارفیق
 navaei نوایی
+navi ناوی
+nav ناو
 nazem ناظم
 na نه
 neon نئون
@@ -462,8 +477,10 @@ performance پرفورمنس
 perry پری
 persian پرشین
 persia پرشیا
+pesto پستو
 pharrel فرل
 photoshop فتوشاپ
+pizza پیتزا
 plan پلن
 plastic پلاستیک
 playstation پلی‌استیشن
@@ -519,6 +536,7 @@ salam سلام
 salesan ثالثاً
 sales ثالث
 salha سال‌ها
+samera سامرا
 sandis ساندیس
 sanian ثانیاً
 sarah سارا
@@ -559,6 +577,7 @@ soal سؤال
 social سوشال
 soghra صغری
 soqra صغری
+sos سس
 soundtrack ساندترک
 source سورس
 speaker اسپیکر
