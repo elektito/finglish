@@ -37,7 +37,9 @@ asheq عاشق
 ashghal آشغال
 ashqal آشغال
 asimov آسیموف
+attari عطاری
 austen آستن
+automatic اتوماتیک
 avalan اولاً
 avvalan اولاً
 ayate آیات
@@ -65,6 +67,7 @@ beyonce بیانسه
 bf بی‌اف
 bia بیا
 bieber بیبر
+bighararam بیقرارم
 blog بلاگ
 blonde بلوند
 blond بلوند
@@ -101,6 +104,7 @@ carter کارتر
 car کار
 case کیس
 cash کش
+casio کاسیو
 caspian کاسپین
 cat کت
 cd سی‌دی
@@ -162,6 +166,8 @@ daghighan دقیقاً
 dana دانا
 daqiqan دقیقاً
 daram دارم
+darde درد
+dard درد
 dareh داره
 david دیوید
 decor دکور
@@ -174,10 +180,12 @@ disc دیسک
 dj دی‌جی
 doa دعا
 docker داکر
+doctora دکترا
 doctor دکتر
 dom دم
 donyam دنیام
 dor دور
+dotamoon دوتامون
 down داون
 dracula دراکولا
 duff داف
@@ -459,6 +467,7 @@ ok اوکی
 online آنلاین
 on آن
 open اوپن
+option آپشن
 order اوردر
 original اورجینال
 oscar اسکار
@@ -532,6 +541,7 @@ saber صابر
 sabet ثابت
 saeed سعید
 sahab سحاب
+salame سلام
 salam سلام
 salesan ثالثاً
 sales ثالث
@@ -651,6 +661,7 @@ vpn وی‌پی‌ان
 vps وی‌پی‌اس
 wars وارز
 war وار
+water واتر
 wax واکس
 webcam وب‌کم
 weblog وبلاگ
@@ -674,3 +685,4 @@ you یو
 zaheran ظاهراً
 zahra زهرا
 zombie زامبی
+zorro زورو
