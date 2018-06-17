@@ -4,8 +4,6 @@ try:
     from setuptools.core import setup
 except ImportError:
     from distutils.core import setup
-from pip.req import parse_requirements
-from pip.download import PipSession
 import os
 
 def get_file_path(name):
@@ -13,13 +11,15 @@ def get_file_path(name):
         os.path.dirname(__file__),
         name))
 
+def parse_requirements(filename):
+    lineiter = (line.strip() for line in open(filename))
+    return [line for line in lineiter if line and not line.startswith("#")]\
+
 with open(get_file_path('finglish/version.py')) as f:
     exec(f.read())
 
 # read requirements from requirements.txt
-requirements = parse_requirements(get_file_path('requirements.txt'),
-                                  session=PipSession())
-requirements = [str(r.req) for r in requirements]
+requirements = parse_requirements(get_file_path('requirements.txt'))
 
 setup(
     name = 'finglish',
