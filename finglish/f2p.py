@@ -75,7 +75,9 @@ def variations(word):
     """Create variations of the word based on letter combinations like oo,
 sh, etc."""
 
-    if len(word) == 1:
+    if word == 'a':
+        return [['A']]
+    elif len(word) == 1:
         return [[word[0]]]
     elif word == 'aa':
         return [['A']]
