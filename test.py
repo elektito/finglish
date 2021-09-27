@@ -5,7 +5,7 @@ from finglish import f2p
 def main():
     print('Loading test cases...')
 
-    with open('test.txt') as f:
+    with open('test.txt' , encoding="utf-8") as f:
         pairs = [l.strip().split(' ', 1) for l in f if l.strip()]
 
     print('{} test cases loaded.'.format(len(pairs)))
